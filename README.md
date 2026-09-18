@@ -80,7 +80,7 @@ My work connects security research with hands-on engineering: cloud honeypots, n
 | [**CloudTrap**](https://github.com/ABINESHKUMARMUTHUSAMY/Cloudtrap) | AWS honeypot infrastructure with real-time event processing, MITRE ATT&CK mapping, and AI-assisted session analysis. | AWS · Terraform · Python · React · Claude |
 | [**Threat Intelligence & Automated Response**](https://github.com/ABINESHKUMARMUTHUSAMY/threat-intel-platform) | Network monitoring combining ML and Suricata detection with automated IP blocking and host isolation. In development. | FastAPI · XGBoost · Suricata · Redis · PostgreSQL |
 | [**SecPolicy GPT**](https://github.com/ABINESHKUMARMUTHUSAMY/secpolicy-gpt) | RAG assistant for querying security frameworks and mapping controls, with source citations and streaming responses. | Python · FastAPI · Claude · ChromaDB |
-| [**AK Signal Android**](https://github.com/ABINESHKUMARMUTHUSAMY/AK-signalandroid) | My Signal Android research codebase, based on the open-source Signal application. | Android · Java · Kotlin |
+| [**Speakeasy-Signal Android**](https://github.com/ABINESHKUMARMUTHUSAMY/AK-signalandroid) | My Signal Android research codebase, based on the open-source Signal application. | Android · Java · Kotlin |
 
 ---
 
